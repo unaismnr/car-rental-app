@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "496002664205",
+    "project_id": "car-rental-app-263b6",
+    "storage_bucket": "car-rental-app-263b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496002664205:android:bc90139c2e4af035999244",
+        "android_client_info": {
+          "package_name": "com.netecart.carrentalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWnHrArdDrOo0xiJlMxFR7mrKeQ8l8j2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496002664205:android:df180fa633e40535999244",
+        "android_client_info": {
+          "package_name": "com.yourdomain.carrentalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWnHrArdDrOo0xiJlMxFR7mrKeQ8l8j2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
